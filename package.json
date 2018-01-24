@@ -26,5 +26,5 @@
     "deploy" : "gh-pages -d build"
 
   },
-  "homepage": "https://rezbotz.github.io/create-react-app-redux"
+  "homepage": "https://rezbotz.github.io/"
 }
